@@ -1,0 +1,136 @@
+{
+  "app": {
+    "name": "Play ChaCha",
+    "tagline": "Peer-to-Peer Sports Betting",
+    "description": "Bet against other users on real sports events globally"
+  },
+  "navigation": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "betting": "Betting",
+    "wallet": "Wallet",
+    "profile": "Profile",
+    "settings": "Settings",
+    "help": "Help",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register"
+  },
+  "buttons": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "confirm": "Confirm",
+    "close": "Close",
+    "refresh": "Refresh",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "export": "Export",
+    "import": "Import",
+    "download": "Download",
+    "upload": "Upload"
+  },
+  "forms": {
+    "required": "This field is required",
+    "invalid_email": "Please enter a valid email address",
+    "invalid_phone": "Please enter a valid phone number",
+    "password_too_short": "Password must be at least 8 characters",
+    "passwords_dont_match": "Passwords do not match",
+    "invalid_amount": "Please enter a valid amount",
+    "amount_too_low": "Amount is too low",
+    "amount_too_high": "Amount is too high",
+    "select_option": "Please select an option",
+    "agree_terms": "You must agree to the terms and conditions"
+  },
+  "status": {
+    "loading": "Loading...",
+    "saving": "Saving...",
+    "success": "Success",
+    "error": "Error",
+    "warning": "Warning",
+    "info": "Information",
+    "pending": "Pending",
+    "completed": "Completed",
+    "cancelled": "Cancelled",
+    "failed": "Failed",
+    "active": "Active",
+    "inactive": "Inactive",
+    "verified": "Verified",
+    "unverified": "Unverified"
+  },
+  "time": {
+    "now": "Now",
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "tomorrow": "Tomorrow",
+    "this_week": "This week",
+    "last_week": "Last week",
+    "next_week": "Next week",
+    "this_month": "This month",
+    "last_month": "Last month",
+    "next_month": "Next month",
+    "seconds_ago": "{{count}} second ago",
+    "seconds_ago_plural": "{{count}} seconds ago",
+    "minutes_ago": "{{count}} minute ago",
+    "minutes_ago_plural": "{{count}} minutes ago",
+    "hours_ago": "{{count}} hour ago",
+    "hours_ago_plural": "{{count}} hours ago",
+    "days_ago": "{{count}} day ago",
+    "days_ago_plural": "{{count}} days ago"
+  },
+  "currency": {
+    "symbol": "$",
+    "format": "{{symbol}}{{amount}}",
+    "decimal_separator": ".",
+    "thousands_separator": ",",
+    "balance": "Balance",
+    "amount": "Amount",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "fee": "Fee",
+    "tax": "Tax",
+    "discount": "Discount"
+  },
+  "pagination": {
+    "page": "Page",
+    "of": "of",
+    "items_per_page": "Items per page",
+    "showing": "Showing {{start}} to {{end}} of {{total}} items",
+    "no_items": "No items found",
+    "first": "First",
+    "last": "Last"
+  },
+  "notifications": {
+    "new_notification": "New notification",
+    "mark_as_read": "Mark as read",
+    "mark_all_read": "Mark all as read",
+    "no_notifications": "No notifications",
+    "view_all": "View all notifications"
+  },
+  "footer": {
+    "copyright": "© {{year}} Play ChaCha. All rights reserved.",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_service": "Terms of Service",
+    "contact_us": "Contact Us",
+    "about": "About",
+    "support": "Support",
+    "responsible_gambling": "Responsible Gambling"
+  },
+  "languages": {
+    "select_language": "Select Language",
+    "current_language": "Current Language"
+  },
+  "regions": {
+    "select_region": "Select Region",
+    "current_region": "Current Region",
+    "not_available": "Not available in your region"
+  }
+}
+
